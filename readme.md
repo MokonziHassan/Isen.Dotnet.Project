@@ -72,3 +72,16 @@ Créer le tag dans le repo local
 git tag v0.1
 Push le tag dans le remote repo
 git push origin v0.1
+
+##Ajout d'un modèle
+* Dans le projet Library :
+* Créer un dossier Models/Implementation
+* Créer une classe Person :
+  * Id(int)
+  * Name(string)
+  * FirstName (string)
+  * LastName (string)
+  * BirthDate (DateTime)
+* Créer une classe City
+  * `Id` (int)
+  * `Name`(string)
