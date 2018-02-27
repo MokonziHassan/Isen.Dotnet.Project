@@ -74,14 +74,19 @@ Push le tag dans le remote repo
 git push origin v0.1
 
 ##Ajout d'un modèle
+#Types personnes et city
 * Dans le projet Library :
 * Créer un dossier Models/Implementation
 * Créer une classe Person :
-  * Id(int)
-  * Name(string)
-  * FirstName (string)
-  * LastName (string)
-  * BirthDate (DateTime)
+  * `Id`(int)
+  * `Name`(string)
+  * `FirstName` (string)
+  * `LastName` (string)
+  * `BirthDate` (DateTime)
 * Créer une classe City
   * `Id` (int)
   * `Name`(string)
+
+##Refactoring : extraction d'un MaseModel
+Les classes person et city ont une partie de leur logique commune
+Extraire ce qui est commun dans une classse abstraite `BaseModel`
