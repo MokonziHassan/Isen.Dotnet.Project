@@ -55,3 +55,20 @@ cd Isen.Dotnet.Tests
 dotnet sln add Isen.Dotnet.Tests\Isen.Dotnet.Tests.csproj
 ##Ajouter le dossier du projet de tests : 
 Ajouter le projet librairie : `dotnet add  reference Isen.Dotnet.Library\Isen.Dotnet.Library.csproj`
+
+##Commit git
+`git add`
+`git commit -m  "Test Project"`
+
+##Push du projet sur un repos remote
+
+Créer un projet sur le serveur git de votre choix ( GitHub, GitLab, interne ISEN ...)
+l'url de mon repo : 
+git remote add origin https://github.com/MokonziHassan/Isen.Dotnet.Project.git
+git push -u origin master
+
+##Ajout d'un tag Git
+Créer le tag dans le repo local
+git tag v0.1
+Push le tag dans le remote repo
+git push origin v0.1
