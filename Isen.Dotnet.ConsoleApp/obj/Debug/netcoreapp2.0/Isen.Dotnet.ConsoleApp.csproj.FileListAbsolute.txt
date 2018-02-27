@@ -1,0 +1,10 @@
+C:\Users\khass\Isen.Dotnet\Isen.Dotnet.ConsoleApp\bin\Debug\netcoreapp2.0\Isen.Dotnet.ConsoleApp.deps.json
+C:\Users\khass\Isen.Dotnet\Isen.Dotnet.ConsoleApp\bin\Debug\netcoreapp2.0\Isen.Dotnet.ConsoleApp.runtimeconfig.json
+C:\Users\khass\Isen.Dotnet\Isen.Dotnet.ConsoleApp\bin\Debug\netcoreapp2.0\Isen.Dotnet.ConsoleApp.runtimeconfig.dev.json
+C:\Users\khass\Isen.Dotnet\Isen.Dotnet.ConsoleApp\bin\Debug\netcoreapp2.0\Isen.Dotnet.ConsoleApp.dll
+C:\Users\khass\Isen.Dotnet\Isen.Dotnet.ConsoleApp\bin\Debug\netcoreapp2.0\Isen.Dotnet.ConsoleApp.pdb
+C:\Users\khass\Isen.Dotnet\Isen.Dotnet.ConsoleApp\obj\Debug\netcoreapp2.0\Isen.Dotnet.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\khass\Isen.Dotnet\Isen.Dotnet.ConsoleApp\obj\Debug\netcoreapp2.0\Isen.Dotnet.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\khass\Isen.Dotnet\Isen.Dotnet.ConsoleApp\obj\Debug\netcoreapp2.0\Isen.Dotnet.ConsoleApp.AssemblyInfo.cs
+C:\Users\khass\Isen.Dotnet\Isen.Dotnet.ConsoleApp\obj\Debug\netcoreapp2.0\Isen.Dotnet.ConsoleApp.dll
+C:\Users\khass\Isen.Dotnet\Isen.Dotnet.ConsoleApp\obj\Debug\netcoreapp2.0\Isen.Dotnet.ConsoleApp.pdb
