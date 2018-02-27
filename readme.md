@@ -96,3 +96,6 @@ La classe de base sers dans le dossier Models/Base
 ##CityRepositories
 A la racine de Library créer un dossier repository Repositories/InMemory
 Ajouter une classe InMemoryCityRepository
+
+##Refactoring interface : extraire IBaseRepository
+Déplacer les 3 méthodes 
