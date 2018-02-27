@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v2.0": {
       "Isen.Dotnet.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Isen.Dotnet.Library": "1.0.0"
+        },
         "runtime": {
           "Isen.Dotnet.ConsoleApp.dll": {}
+        }
+      },
+      "Isen.Dotnet.Library/1.0.0": {
+        "runtime": {
+          "Isen.Dotnet.Library.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Isen.Dotnet.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Isen.Dotnet.Library/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

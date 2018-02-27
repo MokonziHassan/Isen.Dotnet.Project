@@ -8,3 +8,5 @@ C:\Users\khass\Isen.Dotnet\Isen.Dotnet.ConsoleApp\obj\Debug\netcoreapp2.0\Isen.D
 C:\Users\khass\Isen.Dotnet\Isen.Dotnet.ConsoleApp\obj\Debug\netcoreapp2.0\Isen.Dotnet.ConsoleApp.AssemblyInfo.cs
 C:\Users\khass\Isen.Dotnet\Isen.Dotnet.ConsoleApp\obj\Debug\netcoreapp2.0\Isen.Dotnet.ConsoleApp.dll
 C:\Users\khass\Isen.Dotnet\Isen.Dotnet.ConsoleApp\obj\Debug\netcoreapp2.0\Isen.Dotnet.ConsoleApp.pdb
+C:\Users\khass\Isen.Dotnet\Isen.Dotnet.ConsoleApp\bin\Debug\netcoreapp2.0\Isen.Dotnet.Library.dll
+C:\Users\khass\Isen.Dotnet\Isen.Dotnet.ConsoleApp\bin\Debug\netcoreapp2.0\Isen.Dotnet.Library.pdb
