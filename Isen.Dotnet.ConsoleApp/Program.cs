@@ -8,6 +8,8 @@ namespace Isen.Dotnet.ConsoleApp
     {
         static void Main(string[] args)
         {
+            var world = Hello.World;
+            Console.WriteLine(world);
             string result = Hello.greet("Hassan");
             Console.WriteLine(result);
         }
