@@ -90,3 +90,9 @@ git push origin v0.1
 ##Refactoring : extraction d'un MaseModel
 Les classes person et city ont une partie de leur logique commune
 Extraire ce qui est commun dans une classse abstraite `BaseModel`
+La classe de base sers dans le dossier Models/Base
+
+#Ajout de repositories
+##CityRepositories
+A la racine de Library créer un dossier repository Repositories/InMemory
+Ajouter une classe InMemoryCityRepository

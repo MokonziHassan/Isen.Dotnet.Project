@@ -1,3 +1,4 @@
+
 namespace Isen.Dotnet.Library.Models.Base.BaseModel
 {
     public abstract class BaseModel 
